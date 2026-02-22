@@ -26,7 +26,7 @@ margin: 30px;
     height: 20px;
   display: flex;
 justify-content: center;  
-gap: 20px;
+gap: 19px;
 }
 
 #inputb:hover{
@@ -112,4 +112,5 @@ height: 40px;
 background-color: rgb(61, 0, 0);
 transform: scale(1);
 color: rgb(246, 246, 155);
+
 }
