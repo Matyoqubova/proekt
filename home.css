@@ -1,0 +1,115 @@
+
+body{
+    margin:0;
+    height: 100vh;
+    background-color: blue;
+    /* margin: 30px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.box1{
+    background-color: aliceblue;
+    margin: 700px;
+    height: 390px;
+    border-radius: 20px;
+}
+.box2{
+margin: 30px;
+/* padding: 20px; */
+
+}
+.inputbox{
+    width: 400px;
+    height: 20px;
+  display: flex;
+justify-content: center;  
+gap: 20px;
+}
+
+#inputb:hover{
+    cursor: pointer;
+}
+button{
+color: aliceblue;
+border: none;
+border-radius: 5px;
+padding: 5px ;
+    background-color: rgb(47, 47, 242);
+}
+button :hover{
+    cursor: pointer;
+}
+
+
+.button1{
+display: flex;
+padding: 8px;
+justify-content:space-between ;
+background-color: rgb(53, 161, 161);
+border: 1px solid rgb(7, 91, 127);
+border-radius: 5px;
+gap: 20px;
+width: 400px;
+height: 40px;
+}
+.button1 :active{
+background-color: rgb(61, 0, 0);
+transform: scale(1);
+color: rgb(246, 246, 155);
+}
+
+
+.button2{
+display: flex;
+padding: 8px;
+
+justify-content:space-between ;
+background-color: rgb(53, 161, 161);
+border: 1px solid rgb(7, 91, 127);
+border-radius: 5px;
+gap: 20px;
+width: 400px;
+height: 40px;
+}
+.button2 :active{
+background-color: rgb(61, 0, 0);
+transform: scale(1);
+color: rgb(246, 246, 155);
+}
+.button3{
+display: flex;
+padding: 8px;
+
+justify-content:space-between ;
+background-color: rgb(53, 161, 161);
+border: 1px solid rgb(7, 91, 127);
+border-radius: 5px;
+gap: 20px;
+width: 400px;
+height: 40px;
+}
+.button3 :active{
+background-color: rgb(61, 0, 0);
+transform: scale(1);
+color: rgb(246, 246, 155);
+}
+.button4{
+display: flex;
+padding: 8px;
+
+justify-content:space-between ;
+background-color: rgb(53, 161, 161);
+border: 1px solid rgb(7, 91, 127);
+border-radius: 5px;
+gap: 20px;
+width: 400px;
+height: 40px;
+}
+.button4 :active{
+background-color: rgb(61, 0, 0);
+transform: scale(1);
+color: rgb(246, 246, 155);
+}
